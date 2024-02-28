@@ -17,7 +17,7 @@
 ## Install Locally Or On A VPS
 
 ```sh
-$ git clone https://github.com/thehamkercat/SpamProtectionRobot
+$ git clone https://github.com/bebekk2024/SpamProtectionRobot
 
 $ cd SpamProtectionRobot
 
@@ -34,12 +34,12 @@ $ python3 -m spr
 
 # Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thehamkercat/SpamProtectionRobot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bebekk2024/SpamProtectionRobot/)
 
 # Docker
 
 ```sh
-$ git clone https://github.com/TheHamkerCat/SpamProtectionRobot
+$ git clone https://github.com/bebekk2024/SpamProtectionRobot
 
 $ cd SpamProtectionRobot
 ```
